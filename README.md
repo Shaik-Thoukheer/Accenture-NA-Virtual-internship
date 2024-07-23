@@ -1,5 +1,6 @@
 Accenture Data Analytics Project
-Welcome to the Accenture Data Analytics Project repository! This project showcases the results of a comprehensive data analysis task focused on uncovering insights from a large dataset of social media posts.
+Welcome to the Accenture Data Analytics Project repository! 
+This project showcases the results of a comprehensive data analysis task focused on uncovering insights from a large dataset of social media posts.
 
 Table of Contents
 Project Overview
